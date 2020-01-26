@@ -1,0 +1,39 @@
+rev_1 - eschola publica
+rev_2 - revista da escola normal da São Carlos
+rev_3 - revista de ensino
+
+
+aut_1 - oscar thompson
+aut_2 - B.M. tolosa
+aut_3 - J. F. VELHO DA SILVA.
+aut_4 - sem autor
+aut_5 - ARNALDO BARRETO
+aut_6 - C. GOMES CARDIM
+aut_7 - Gabriel Prestes
+aut_8 - Augusto de Carvalho
+aut_9 - Antonio Pena
+aut_10 - Joaquim Brito
+aut_11 - G. Tuilio
+aut_12 - Francisco Furtado Mendes Viana
+aut-13 - René Barreto
+aut_14 - D. R. ANGSBURG e R. Roca.
+aut_15 - Joanna Grassi Fagundes.
+aut_16 - Francisco E. de Aquino Leite.
+aut_17 - R. Roca
+aut_18 - Luiz Cardoso
+aut_19 - Dolores D. A.
+aut_20 - N. M. E. N. S.
+aut_21 - Raphael Falco
+aut_22 - Francisco F. de Oliveira Penteado
+aut_23 - Flavio Lopes Monteiro.
+
+
+ano - respectivo ano ao lado. Ex: ano_1890
+
+tema_1 - arithmetica
+tema_2 - desenho
+tema_3 - geometria
+tema_4 - Álgebra
+
+
+
